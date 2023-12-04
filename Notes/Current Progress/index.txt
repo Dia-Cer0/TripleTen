@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Four design rules</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image" href="https://practicum-content.s3.us-west-1.amazonaws.com/web-code/moved_rules-favicon.ico">
+  </head>
+  <body>
+    <header>
+      <h1>
+        Four design rules
+      </h1>
+    </header>
+  </body>
+</html>

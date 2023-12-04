@@ -1,0 +1,11 @@
+header{
+  /*DIMENSIONS*/
+  height:270px;
+  width:500px;
+  background-color:azure;
+  
+}
+
+h1{
+  font-size:140px;
+}
