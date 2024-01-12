@@ -1,0 +1,6 @@
+[submodule "Sprint_3_Lessons"]
+	path = Sprint_3_Lessons
+	url = git@github.com:Dia-Cer0/Sprint_3_Lessons.git
+[submodule "1-SPRINT-1"]
+	path = 1-SPRINT-1
+	url = git@github.com:Dia-Cer0/1-SPRINT-1.git
