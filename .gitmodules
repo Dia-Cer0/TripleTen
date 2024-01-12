@@ -7,3 +7,6 @@
 [submodule "3-SPRINT-3"]
 	path = 3-SPRINT-3
 	url = git@github.com:Dia-Cer0/3-SPRINT-3.git
+[submodule "2-SPRINT-2"]
+	path = 2-SPRINT-2
+	url = git@github.com:Dia-Cer0/2-SPRINT-2.git
