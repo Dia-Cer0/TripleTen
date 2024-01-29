@@ -10,3 +10,6 @@
 [submodule "2-SPRINT-2"]
 	path = 2-SPRINT-2
 	url = git@github.com:Dia-Cer0/2-SPRINT-2.git
+[submodule "4-SPRINT-4/learn_branches"]
+	path = 4-SPRINT-4/learn_branches
+	url = git@github.com:Dia-Cer0/learn_branches.git
