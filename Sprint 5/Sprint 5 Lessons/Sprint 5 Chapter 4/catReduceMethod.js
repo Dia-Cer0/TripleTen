@@ -1,0 +1,1 @@
+let reduceMethod = readFile("./reduceMethod.js");
