@@ -7,6 +7,7 @@
   }
 }
 
+<<<<<<< HEAD
 .header {
   display: flex;
   justify-content: center;
@@ -26,4 +27,6 @@
 .header__logo:hover {
   visibility: hidden;
   opacity: 0%;
+=======
+>>>>>>> 2d9455f3f47756a87d80bac5234fce8b32d88dac
 }
