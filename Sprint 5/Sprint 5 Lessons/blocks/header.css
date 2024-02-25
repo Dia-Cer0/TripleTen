@@ -1,12 +1,29 @@
-.header{
-    display:flex;
-    justify-content:center;
-    
+@keyframes fade-in {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
 }
-.header__logo{
-    max-height:320px;
-    height:100%;
-    width:100%;
-    border-radius:10px;
 
+.header {
+  display: flex;
+  justify-content: center;
+  opacity: 100%;
+  visibility: visible;
+  transition: visibility 10s ease-in-out, opacity 10s ease-in-out;
+  /*animation-name: fade-in;
+  animation-duration: 4s;
+  animation-timing-function: ease-in-out;*/
+}
+.header__logo {
+  max-height: 320px;
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+.header__logo:hover {
+  visibility: hidden;
+  opacity: 0%;
 }

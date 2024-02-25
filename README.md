@@ -34,3 +34,5 @@ restructures your code. It neither fixes bugs nor adds new features. Example: ch
 
 eg.
 git commit -m "feat: add responsive for smartphones and tablets"
+
+https://www.notion.so/Job-Boards-5b134c8f0a5442aeac9d1cf5dec2f6ff
